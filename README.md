@@ -1,2 +1,2 @@
 # cat-photo-app
-sample html
+Sample Html Project
