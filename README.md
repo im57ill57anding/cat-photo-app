@@ -1,2 +1,3 @@
 # cat-photo-app
-Sample Html Project
+* Sample Html Project
+* course from freecodecamp
